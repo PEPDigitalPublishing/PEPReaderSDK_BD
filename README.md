@@ -1,4 +1,4 @@
-# PEPReaderSDK_BD
+# PEPReaderSDK_BD_字节用
 PEPReaderSDK_BD
 ## 系统要求
 

@@ -29,6 +29,8 @@ pod 'PEPiFlyMSC', :git => 'https://github.com/PEPDigitalPublishing/PEPiFlyMSC.gi
 
 pod 'SSZipArchive'
 
+pod 'iosMath'
+
 ```
 
 

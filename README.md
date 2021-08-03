@@ -33,18 +33,6 @@ pod 'iosMath'
 
 ```
 
-
-##### 指定版本号
-
-`podfile`中可以通过如下方式指定版本号：
-
-```
-pod 'PEPReaderSDK_YiQi', { :git => 'https://github.com/PEPDigitalPublishing/PEPReaderSDK_YiQi.git', :tag => '2.0.0' }
-```
-
-
-
-
 #### 方式二、手动接入
 
 1. 从[Releases](https://github.com/PEPDigitalPublishing/PEPReaderSDK/releases)中下载指定版本，然后将其中的`PEPReaderSDK.framework`和`PDFReaderSDKDiandu.xcassets`导入项目中。
